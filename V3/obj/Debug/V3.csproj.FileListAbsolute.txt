@@ -1,0 +1,8 @@
+c:\users\charlit\documents\visual studio 2015\Projects\TP01Threads\V3\bin\Debug\V3.exe.config
+c:\users\charlit\documents\visual studio 2015\Projects\TP01Threads\V3\bin\Debug\V3.exe
+c:\users\charlit\documents\visual studio 2015\Projects\TP01Threads\V3\bin\Debug\V3.pdb
+c:\users\charlit\documents\visual studio 2015\Projects\TP01Threads\V3\obj\Debug\V3.Form1.resources
+c:\users\charlit\documents\visual studio 2015\Projects\TP01Threads\V3\obj\Debug\V3.Properties.Resources.resources
+c:\users\charlit\documents\visual studio 2015\Projects\TP01Threads\V3\obj\Debug\V3.csproj.GenerateResource.Cache
+c:\users\charlit\documents\visual studio 2015\Projects\TP01Threads\V3\obj\Debug\V3.exe
+c:\users\charlit\documents\visual studio 2015\Projects\TP01Threads\V3\obj\Debug\V3.pdb

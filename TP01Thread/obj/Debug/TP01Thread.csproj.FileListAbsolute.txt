@@ -1,0 +1,9 @@
+c:\users\charlit\documents\visual studio 2015\Projects\TP01Threads\TP01Thread\bin\Debug\TP01Thread.exe.config
+c:\users\charlit\documents\visual studio 2015\Projects\TP01Threads\TP01Thread\bin\Debug\TP01Thread.exe
+c:\users\charlit\documents\visual studio 2015\Projects\TP01Threads\TP01Thread\bin\Debug\TP01Thread.pdb
+c:\users\charlit\documents\visual studio 2015\Projects\TP01Threads\TP01Thread\obj\Debug\TP01Thread.csprojResolveAssemblyReference.cache
+c:\users\charlit\documents\visual studio 2015\Projects\TP01Threads\TP01Thread\obj\Debug\TP01Thread.HorlogeV2.resources
+c:\users\charlit\documents\visual studio 2015\Projects\TP01Threads\TP01Thread\obj\Debug\TP01Thread.Properties.Resources.resources
+c:\users\charlit\documents\visual studio 2015\Projects\TP01Threads\TP01Thread\obj\Debug\TP01Thread.csproj.GenerateResource.Cache
+c:\users\charlit\documents\visual studio 2015\Projects\TP01Threads\TP01Thread\obj\Debug\TP01Thread.exe
+c:\users\charlit\documents\visual studio 2015\Projects\TP01Threads\TP01Thread\obj\Debug\TP01Thread.pdb
